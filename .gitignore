@@ -25,3 +25,21 @@ hs_err_pid*
 # book example code
 spring5fs-master/
 
+/.idea/
+/chap02/.idea/
+/chap03/.idea/
+/chap04/.idea/
+/chap05/.idea/
+/chap06/.idea/
+/chap07/.idea/
+/chap08/.idea/
+/chap09/.idea/
+
+/chap02/target/
+/chap03/target/
+/chap04/target/
+/chap05/target/
+/chap06/target/
+/chap07/target/
+/chap08/target/
+/chap09/target/
