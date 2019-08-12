@@ -34,6 +34,13 @@ spring5fs-master/
 /chap07/.idea/
 /chap08/.idea/
 /chap09/.idea/
+/chap11/.idea/
+/chap12/.idea/
+/chap13/.idea/
+/chap14/.idea/
+/chap15/.idea/
+/chap16/.idea/
+/chap_final/.idea/
 
 /chap02/target/
 /chap03/target/
@@ -43,3 +50,12 @@ spring5fs-master/
 /chap07/target/
 /chap08/target/
 /chap09/target/
+/chap11/target/
+/chap12/target/
+/chap13/target/
+/chap14/target/
+/chap15/target/
+/chap16/target/
+/chap_final/target/
+
+*.iml
